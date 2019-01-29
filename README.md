@@ -2,7 +2,7 @@
 Required first repository because tradition
 
 GENESIS
-The Creation of the World
+
 1 In the beginning, God created the heavens and the earth. 2 The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.
 
 3 And God said, “Let there be light,” and there was light. 4 And God saw that the light was good. And God separated the light from the darkness. 5 God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day.
@@ -27,10 +27,8 @@ The Creation of the World
 
 28 And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.” 29 And God said, “Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit. You shall have them for food. 30 And to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food.” And it was so. 31 And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.
 
-The Seventh Day, God Rests
 2 Thus the heavens and the earth were finished, and all the host of them. 2 And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. 3 So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.
 
-The Creation of Man and Woman
 4 	These are the generations
     of the heavens and the earth when they were created,
     in the day that the LORD God made the earth and the heavens.

@@ -1,5 +1,7 @@
 # hello-world
-Required first repository because tradition
+Required first repository because tradition.
+
+###Below is some contet to fill the page.
 
 GENESIS
 

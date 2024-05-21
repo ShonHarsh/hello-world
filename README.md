@@ -51,3 +51,4 @@ she shall be called Woman,
 24 Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh. 25 And the man and his wife were both naked and were not ashamed.
 
 3
+.
